@@ -23,7 +23,7 @@ CSHTML           3 mins          █▓░░░░░░░░░░░░░�
 <!-- TODO: add  java, angular, mognodb
 AND split in multiple paragraphs when the list gets too large
 -->
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,go,cpp,py,postgresql,git,docker" />
   </a>
