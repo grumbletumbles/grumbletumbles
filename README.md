@@ -7,6 +7,15 @@
 * Love samoyed dogs❤️
 
 <!--START_SECTION:waka-->
+
+```txt
+C#               19 mins         ███████████░░░░░░░░░░░░░░   43.44 %
+TypeScript       9 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
+JSON             6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
+HTML             3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+CSHTML           3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+```
+
 <!--END_SECTION:waka-->
 
 <h3>Languages and Tools:</h3>
