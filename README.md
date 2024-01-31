@@ -6,6 +6,7 @@
 * Someday I want to write a compiler in Go...
 * Love samoyed dogs❤️
 
+<h3>Coding time last week:</h3>
 <!--START_SECTION:waka-->
 
 ```txt
