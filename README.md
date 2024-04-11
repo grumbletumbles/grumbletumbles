@@ -26,7 +26,7 @@ AND split in multiple paragraphs when the list gets too large
 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,go,cpp,py,postgresql,git,docker" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,go,cpp,py,postgresql,git,docker" />
   </a>
 </p>
 
